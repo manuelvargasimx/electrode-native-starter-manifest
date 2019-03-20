@@ -5,6 +5,7 @@
       "react-native-gesture-handler@1.1.0"
     ],
     "targetJsDependencies": [
+      "react-native-gesture-handler@1.1.0"
     ]
   }
 ]
