@@ -1,11 +1,9 @@
 [
   {
-    "platformVersion": "0.x",
+    "platformVersion": "0.29.9",
     "targetNativeDependencies": [
       "react-native-gesture-handler@1.1.0"
     ],
-    "targetJsDependencies": [
-      "react-native-gesture-handler@1.1.0"
-    ]
+    "targetJsDependencies": []
   }
 ]
