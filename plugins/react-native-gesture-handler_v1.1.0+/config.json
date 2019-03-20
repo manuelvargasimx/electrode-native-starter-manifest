@@ -1,0 +1,9 @@
+{
+  "android": {
+    "root": "src",
+    "moduleName": "android",
+    "dependencies": [
+      "com.swmansion.gesturehandler.android:react-native-gesture-handler:1.1.0"
+    ]
+  }
+}
